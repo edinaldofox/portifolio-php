@@ -1,0 +1,17 @@
+{
+    "name": "edinaldo/admin-lte",
+    "autoload": {
+        "psr-4": {
+            "AdminLte\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edinaldo",
+            "email": "jose.edinaldo.ext@conductor.com.br"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
